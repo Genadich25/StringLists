@@ -78,6 +78,5 @@ public class Main {
 
         stringList.clear();
         System.out.println(stringList.isEmpty());
-
     }
 }
